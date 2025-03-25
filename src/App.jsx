@@ -8,8 +8,8 @@ function App() {
 
   return (
     <div className='nav'>
-      <a>profile</a>
-      <a>about</a>
+      <a>signal</a>
+      <a>hello</a>
       <a>contact</a>
     </div>
   )
